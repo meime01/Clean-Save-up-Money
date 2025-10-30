@@ -38,6 +38,7 @@ To run this project locally, follow these simple steps:
     yarn dev 
     ```
     The application will typically open at `http://localhost:3000` or `http://localhost:5173`.
+    https://clean-save-up-money.vercel.app/
 
 ## 🛠️ Technology Stack
 
